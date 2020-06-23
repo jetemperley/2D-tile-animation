@@ -1,0 +1,8 @@
+
+
+public interface UIElement{
+
+    int uix = 0, uiy = 0;
+
+    public void drawUI(TileGraphics tg);
+}
